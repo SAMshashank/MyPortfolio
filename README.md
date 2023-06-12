@@ -1,7 +1,7 @@
- #Portfolio Website - Powered by Vite React, Tailwind, Three.js, and EmailJS
+# Portfolio Website - Powered by Vite React, Tailwind, Three.js, and EmailJS
 This portfolio website is a dynamic and immersive platform that showcases your creative work and provides a seamless user experience. It leverages the power of Vite React, Tailwind CSS, Three.js, and EmailJS to deliver a visually stunning, responsive, and interactive website.
 
-##Features:
+## Features:
 1. Vite React:
 Built on Vite's lightning-fast build tool, this portfolio website ensures quick loading times and smooth performance. Vite React's optimized development environment enables rapid development and enhances the overall user experience.
 
